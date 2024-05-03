@@ -1,0 +1,9 @@
+DATA:4#COMP2421#Computer Science/recursion, time analysis, linked lists,stacks, queues, trees, bst, avl, splay, b_trees,hash, heaps, sorting, graphs
+COMPUTER:3#COMP933#Computer Science/algorithms, introduction to c, functions,selection, loops, pointers, arrays, structs
+INTRODUCTION:3#FREN111#French Language/letters, numbers, greetings, grammars, statements
+DATA:4#COMP2421#Computer Science/recursion, time analysis, linked lists,stacks, queues, trees, bst, avl, splay, b_trees,hash, heaps, sorting, graphs
+COMPUTER:3#COMP933#Computer Science/algorithms, introduction to c, functions,selection, loops, pointers, arrays, structs
+INTRODUCTION TO:3#FREN111#French Language/letters, numbers, greetings, grammars, statements
+DATA:4#COMP2421#Computer Science/recursion, time analysis, linked lists,stacks, queues, trees, bst, avl, splay, b_trees,hash, heaps, sorting, graphs
+COMPUTER:3#COMP933#Computer Science/algorithms, introduction to c, functions,selection, loops, pointers, arrays, structs
+INTRODUCTION:3#FREN111#French Language/letters, numbers, greetings, grammars, statements
